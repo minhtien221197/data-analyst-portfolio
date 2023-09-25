@@ -9,8 +9,11 @@ Assume that you are a data analyst working for an e-commerce company named X. Yo
 
 -Todo list
 EDA data set using python
+
 Transform data using Power PI
-use DAX to compute additional metrics that did not appear in the original data
-visualize data into meaningful insights by appropriate charts, table
+
+Use DAX to compute additional metrics that did not appear in the original data
+
+Visualize data into meaningful insights by appropriate charts, table
 
 
