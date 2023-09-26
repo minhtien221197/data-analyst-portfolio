@@ -9,9 +9,26 @@ Assume that you are a data analyst working for an e-commerce company named X. Yo
 
 -Todo list
 
-  +EDA data set using python
-  +Transform data using Power PI
-  +Use DAX to compute additional metrics that did not appear in the original data
-  +Visualize data into meaningful insights by appropriate charts, table
+    EDA data set using python
+  
+    Transform data using Power PI
+  
+    Use DAX to compute additional metrics that did not appear in the original data
+  
+    Visualize data into meaningful insights by appropriate charts, table
+
+## Project 2 - Microsoft Excel
+### Description
+-Context
+
+A real project when working in Daikin. As usual, my manager monitors the transportation cost as well as the KPI performance of vendors based on the raw data file     on an Excel with a  large number of numbers which is good because it is very detailed. However, watching a lot of numbers makes it harder to draw insight   compared to charts. Thus I made a Dashboard on an Excel file to visualize those numbers into meaningful information by drawing some vivid and attractive charts
+
+Disclaimer: These costs in the Dashboard had been modified to preserve  the security and privacy of the company
+
+-Todo list
+
+    Use Power Query to transform data in an automatical way
+
+    Draw suitable charts serving for KPI and cost monitoring
 
 
