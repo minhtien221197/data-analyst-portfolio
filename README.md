@@ -32,7 +32,7 @@ Disclaimer: These costs in the Dashboard had been modified to preserve  the secu
     Draw suitable charts serving for KPI and cost monitoring
 
 
-## Project 3 -Machine Learning
+## [Project 3 -Machine Learning](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/CREDIT%20SCORE%20CLASSIFICATION%20(1).ipynb)
 ### Description
 -Context
 
