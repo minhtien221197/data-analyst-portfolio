@@ -32,3 +32,23 @@ Disclaimer: These costs in the Dashboard had been modified to preserve  the secu
     Draw suitable charts serving for KPI and cost monitoring
 
 
+## Project 3 -Machine Learning
+### Description
+-Context
+
+Assume that you are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts and apply different strategies for each customer's group
+
+-Todo list
+
+    Clean data using numpy, pandas
+
+    EDA data using matplotlib, seaborn
+
+    Encode the data
+
+    Handle imbalanced data to increase the precision of the model
+
+    Build predictive model. Eg: Logistics, Random Forest, Gaussian Naive Bayes
+
+    Evaluate result
+
