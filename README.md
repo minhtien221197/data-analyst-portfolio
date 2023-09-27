@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 Hi, my name is Tien, I warmly welcome you to come to this site and observe my portfolio which includes several projects  related to SQL, Power PI, and Python that I made during my learning with the goal of becoming a data analyst in the near future 
 
-## Project 1 - Power BI
+## [Project 1 - Power BI](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/PROJECT-%20ECOMMERCE%20CASE%20STUDY.pptx)
 ### Description
 
 -Context
@@ -17,7 +17,7 @@ Assume that you are a data analyst working for an e-commerce company named X. Yo
   
     Visualize data into meaningful insights by appropriate charts, table
 
-## Project 2 - Microsoft Excel
+## [Project 2 - Microsoft Excel](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/Dashboard%20-%20DAV%20Transportation%20Cost.xlsm)
 ### Description
 -Context
 
@@ -38,7 +38,6 @@ Disclaimer: These costs in the Dashboard had been modified to preserve  the secu
 
 Assume that you are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts and apply different strategies for each customer's group
 
-[Credit Score Classification] (https://github.com/minhtien221197/data-analyst-portfolio/blob/main/CREDIT%20SCORE%20CLASSIFICATION%20(1).ipynb)
 
 -Todo list
 
