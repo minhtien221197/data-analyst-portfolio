@@ -27,7 +27,7 @@ Disclaimer: These costs in the Dashboard had been modified to preserve  the secu
 
 Todo list
 
-    Use Power Query to transform data in an automatical way
+    Use power query to combine data in different workbooks and transform them in an automatic way
 
     Draw suitable charts serving for KPI and cost monitoring
 
