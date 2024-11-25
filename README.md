@@ -3,6 +3,7 @@ Hi, my name is Tien, I warmly welcome you to come to this site and observe my po
 
 ## [Project 1 - Python + Power BI] 
 [Python](https://github.com/minhtien221197/data-analyst-portfolio/blob/project-1/CRAWL%20AND%20PRE%20PROCESSING%20DATA%20FROM%20CAREERVIET%20WEBSITE.ipynb)
+
 [Power BI](https://github.com/minhtien221197/data-analyst-portfolio/blob/project-1/JOB%20MARKET%20ANALYST.pbix)
 ### Description
 
