@@ -1,7 +1,9 @@
 # Data Analyst Portfolio
 Hi, my name is Tien, I warmly welcome you to come to this site and observe my portfolio which includes several projects  related to SQL, Power PI, and Python that I made during my learning with the goal of becoming a data analyst in the near future 
 
-## [Project 1 - Power BI](https://drive.google.com/drive/folders/1tD1fZbTYwmXP6N6idOlymBnIYGkElGpb)
+## [Project 1 - Python + Power BI] 
+https://github.com/minhtien221197/data-analyst-portfolio/blob/project-1/CRAWL%20AND%20PRE%20PROCESSING%20DATA%20FROM%20CAREERVIET%20WEBSITE.ipynb
+https://github.com/minhtien221197/data-analyst-portfolio/blob/project-1/JOB%20MARKET%20ANALYST.pbix
 ### Description
 
 Context
