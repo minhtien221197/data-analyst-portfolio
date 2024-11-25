@@ -8,15 +8,13 @@ Hi, my name is Tien, I warmly welcome you to come to this site and observe my po
 ### Description
 
 Context
-Assume that you are a data analyst working for an e-commerce company named X. Your mission is to prepare a presentation to present about an overview of the company's business and operation, for the CEO and COO. The presentation must include the following  information:  business overview, and customer satisfaction, and recommend at least two  aspects that could be improved in the future
+This project was made in order to analyze the demand of data analyst, Business Intelligence and Business Analyst positions. By using python, I crawl data from website and then clean and normalize the data before importing those data into Power Bi to make dashboard and draw conclusion
 
 Todo list
 
-    EDA data set using python
-  
-    Transform data using Power PI
-  
-    Use DAX to compute additional metrics that did not appear in the original data
+    Crawl and EDA data set using python
+
+    Import cleaned data into Power BI
   
     Visualize data into meaningful insights by appropriate charts, table
 
@@ -24,18 +22,30 @@ Todo list
 ### Description
 Context
 
-A real project when working in Daikin. As usual, my manager monitors the transportation cost as well as the KPI performance of vendors based on the raw data file     on an Excel with a  large number of numbers which is good because it is very detailed. However, watching a lot of numbers makes it harder to draw insight   compared to charts. Thus I made a Dashboard on an Excel file to visualize those numbers into meaningful information by drawing some vivid and attractive charts
+This project aims to monitor sales and warehouse volumes for all branches in DAV and identify a few abnormal patters in sales behavior. Some metrics are defined, for instance the percentage of sales volume in the last 6 days, how many sales orders were violated the cut-off time , inventory ratio, warehouse inbound  - outbound volume ,et
+
+Todo list
+
+    Extract data from AX system and apply VBA to pre - process raw data before storing into another sheet in Excel
+    Design data model by generating Dim and Fact tables by Power Pivot
+    Create pivot tables for the purpose of drawing appropriate charts and metrics
+
+
+## [Project 3 - Microsoft Excel](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/Dashboard%20-%20DAV%20Transportation%20Cost.xlsm)
+### Description
+Context
+
+A real project when working in Daikin. As usual, my manager monitors the transportation cost as well as the KPI performance of vendors based on the raw data file on an Excel with a large number of numbers which is good because it is very detailed. However, watching a lot of numbers makes it harder to draw insight compared to charts. Thus I made a Dashboard on an Excel file to visualize those numbers into meaningful information by drawing some vivid and attractive charts
 
 Disclaimer: These costs in the Dashboard had been modified to preserve  the security and privacy of the company
 
 Todo list
 
-    Use power query to combine data in different workbooks and transform them in an automatic way
+    Replace traditional reports with large numbers and templates that lack insights  
+    Integrate data from different workbooks into a single dashboar
 
-    Draw suitable charts serving for KPI and cost monitoring
 
-
-## [Project 3 -Machine Learning](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/CREDIT%20SCORE%20CLASSIFICATION%20(1).ipynb)
+## [Project 4 -Machine Learning](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/CREDIT%20SCORE%20CLASSIFICATION%20(1).ipynb)
 ### Description
 Context
 
