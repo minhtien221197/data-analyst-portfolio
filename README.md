@@ -18,11 +18,12 @@ Todo list
   
     Visualize data into meaningful insights by appropriate charts, table
 
-## [Project 2 - Microsoft Excel](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/Dashboard%20-%20DAV%20Transportation%20Cost.xlsm)
+## [Project 2 - Microsoft Excel]
+[Dashboard](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/DASHBOARD%20MONITORING%20SALES%20VOLUME%20IN%20DAV%20-%20FY'24.xlsm)
 ### Description
 Context
 
-This project aims to monitor sales and warehouse volumes for all branches in DAV and identify a few abnormal patters in sales behavior. Some metrics are defined, for instance the percentage of sales volume in the last 6 days, how many sales orders were violated the cut-off time , inventory ratio, warehouse inbound  - outbound volume ,et
+This project aims to monitor sales and warehouse volumes for all branches in DAV and identify a few abnormal patters in sales behavior. Some metrics are defined, for instance the percentage of sales volume in the last 6 days, how many sales orders were violated the cut-off time , inventory ratio, warehouse inbound  - outbound volume ,etc
 
 Todo list
 
@@ -31,7 +32,8 @@ Todo list
     Create pivot tables for the purpose of drawing appropriate charts and metrics
 
 
-## [Project 3 - Microsoft Excel](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/Dashboard%20-%20DAV%20Transportation%20Cost.xlsm)
+## [Project 3 - Microsoft Excel]
+[Dashboard](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/Dashboard%20-%20DAV%20Transportation%20Cost.xlsm)
 ### Description
 Context
 
@@ -45,7 +47,9 @@ Todo list
     Integrate data from different workbooks into a single dashboar
 
 
-## [Project 4 -Machine Learning](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/CREDIT%20SCORE%20CLASSIFICATION%20(1).ipynb)
+## [Project 4 -Machine Learning]
+[Python](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/CREDIT%20SCORE%20CLASSIFICATION%20(1).ipynb)
+[Presentation](https://github.com/minhtien221197/data-analyst-portfolio/blob/main/CREDIT%20SCORE%20CLASSIFICATION.pptx)
 ### Description
 Context
 
