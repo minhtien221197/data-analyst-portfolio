@@ -8,6 +8,7 @@ Hi, my name is Tien, I warmly welcome you to come to this site and observe my po
 ### Description
 
 Context
+
 This project was made in order to analyze the demand of data analyst, Business Intelligence and Business Analyst positions. By using python, I crawl data from website and then clean and normalize the data before importing those data into Power Bi to make dashboard and draw conclusion
 
 Todo list
